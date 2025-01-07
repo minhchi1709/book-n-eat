@@ -1,0 +1,4 @@
+﻿fastapi[standard]
+pyjwt
+passlib
+sqlmodel
